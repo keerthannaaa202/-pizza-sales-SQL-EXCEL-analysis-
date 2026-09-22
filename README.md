@@ -1,5 +1,3 @@
-# -pizza-sales-SQL-EXCEL-analysis-
-Pizza sales analysis using SQL queries and Excel dashboard.
 🍕 Pizza Sales Analysis — SQL & Excel
 
 Analysis of a pizza restaurant's sales data using SQL for querying/KPI calculation and Excel for dashboard visualization. The project covers 21,000+ orders across multiple pizza categories and sizes.
